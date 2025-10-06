@@ -25,12 +25,13 @@
 
 ### Home Page
 
-<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/a255a4c5-a6f3-410b-b344-1b485ae617f1" />
+<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/3748ee1a-4ed6-4375-a41d-00ba7541c819" />
+
 
 
 ### About Page
 
-<img width="1920" height="1020" alt="about" src="https://github.com/user-attachments/assets/a53888e0-9e4d-4417-9db5-126931281d5a" />
+<img width="1920" height="1020" alt="about" src="https://github.com/user-attachments/assets/36ec05e9-4594-4a12-9b36-4cb5cc50b5be" />
 
 
 ---
