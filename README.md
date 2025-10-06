@@ -1,6 +1,3 @@
-Here’s the fully updated **README.md** file with your new name, email, and GitHub link:
-
-````markdown
 # 🌤 Weather App
 
 **Live Weather Updates | Dynamic Backgrounds | Recent Cities | User-Friendly**
